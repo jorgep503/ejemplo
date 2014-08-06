@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title>Nomenclaturas</title>
+</head>
+<body style="background-color:#000000; font-size: 1en; color: #FFF;"
+<header style="text- align:center;">
+    <h1>NOMENCLATURAS</h1>
+	
+</header>
+
+<section style="text-align:left; font-style: normal; color: #FF00FF; width; margin:90px; font-weight:80px;">
+
+<div class="eq-c">
+
+NH<sub>4</sub><sup>&#43;</sup> Cati&oacute;n Amonio.
+</div>
+
+<hr>
+
+<div class="eq-c">
+
+HG<sub>2</sub><sup>2&#43;</sup> Cati&oacute;n Mercurioso.
+</div>
+
+<hr>
+
+<div class="eq-c">
+
+O<sub>2</sub><sup>2&#45;</sup> Per&oacute;xido.
+</div>
+
+<hr>
+
+<div class="eq-c">
+
+MnO<sub>4</sub><sup>&#45;</sup> Permanganato.
+</div>
+
+<hr>
+
+<div class="eq-c">
+
+MnO<sub>4</sub><sup>2&#45;</sup> Manganato.
+</div>
+
+<hr>
+
+<div class="eq-c">
+
+S<sub>2</sub><sup>2&#45;</sup> Disulfuro.
+</div>
+
+<hr>
+
+</section>
+
+<footer style="text-align:center; font-style: normal;">
+    
+	    <small>Copyright 2014</small><br>Desarrollado por: Jorgep503
+	</footer>
+	</body>
+	</html>
